@@ -1,0 +1,7 @@
+data/
+exemplars/katfish-*.md
+__pycache__/
+
+# 사용자 본인 글 (로컬 대조군 전용, 공개하지 않음)
+tests/human-user.md
+tests/user-samples/
